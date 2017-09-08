@@ -1,4 +1,55 @@
 # hello-world
-Hello kiddos,
-I am a concept artist looking to learn the more technical aspects of game development. 
-I am not much of a programmer but I am learning slowly. I look forward to succeeding at this in the near future.
+__This is my Study Guide__
+
+
+**Name 5 of 11 quality factors:**
+Correctness
+Reliablility
+Efficiency
+Integrity
+Useablility
+Maintainability
+Testability
+Flexibility 
+Portability
+Reusablility
+Interoperability
+
+**QC:** quaity control-*respondant* looking for or detecting.
+**vs** 
+**QA:** quality assurance- *preventative* avoiding issues in the futre. 
+
+**The 5 perspectives of Quality:**
+Transcendent- Looks
+Product Based- Features needed
+User Based- Fit for use
+Development and Manufacturing based- requirements and standards
+Value Based- within budget
+
+**Project Management Knowledge areas:**
+Integration
+Scope
+Time
+Cost
+Quality
+Human Resource
+Communications
+Risk
+Procurement
+
+**_SDLC_**
+**Waterfall**-->need>Define>Design>Code>Test>Maintain>**Product Complete [old]**
+**Agile/Scrum**-->
+**Prototyping**-->cheap>Define>Re-Design>**Product Complete**
+**Spiral/Phased**-->need>Define>Design>Code>Test>Maintain>Repeat>**Product Complete**
+
+
+
+
+
+
+
+
+
+
+
